@@ -11,6 +11,8 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.8992726458236575
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bee9ec-cd79-4a8c-b8b0-e569a8c43103.jpg
 name: RichSD
 navigation:
   - name: About Us
