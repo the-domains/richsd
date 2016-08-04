@@ -1,0 +1,14 @@
+layout_spectrum: 0.8992726458236575
+typography_spectrum: 0.7334612549748272
+color:
+  brandStrength: 0.5216921253595501
+  lightness: 0.14158198214136064
+  saturation: 0.6694648216944188
+  rhythmicContrast: 0.47687500109896064
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: RichSD
