@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.8992726458236575
 name: RichSD
+navigation:
+  - name: About Us
+    id: 6bc73559-5556-4e5b-8912-9611517141fa
+    type: content
 title: Welcome
 description: 'People first, Real Estate second'
