@@ -1,16 +1,16 @@
-typography_spectrum: 0.7334612549748272
+layout_spectrum: 0.2074742668773979
+typography_spectrum: 0.7823568414896727
 color:
-  brandStrength: 0.5216921253595501
-  lightness: 0.14158198214136064
-  saturation: 0.6694648216944188
-  rhythmicContrast: 0.47687500109896064
+  brandStrength: 0.8029175586998463
+  lightness: 0.8174109160900116
+  saturation: 0.9081175469327718
+  rhythmicContrast: 0.47653046739287674
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.8992726458236575
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3bee9ec-cd79-4a8c-b8b0-e569a8c43103.jpg
 name: RichSD
